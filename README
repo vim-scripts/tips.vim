@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4094
+
+Show vim tips everytime when you enter vim. 
+
+Screenshot:https://github.com/downloads/yesmeck/tips.vim/screenshot.png 
+
+**Requirement** 
+
+ruby 
+
+**Usage** 
+
+Just open your vim! Or use command ``:NextTips`` to view more tips. 
+
+Your can submit your tips to http://vim-tips.org 
